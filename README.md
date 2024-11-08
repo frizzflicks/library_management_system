@@ -14,7 +14,7 @@ A simple library management program built with Python using the `tkinter` librar
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/frizzflicks/library_management_system.git
    cd library-management-system
    ```
 
