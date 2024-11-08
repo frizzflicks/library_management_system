@@ -58,10 +58,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## Contact
 
-**Author**: Taranveer Singh  
-**Email**: your.email@example.com  
 **GitHub**: https://github.com/frizzflicks
 
 ---
 
-Feel free to modify and enhance this `README` to better suit your needs. Happy coding!
